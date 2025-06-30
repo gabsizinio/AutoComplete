@@ -1,0 +1,8 @@
+type Query {
+  suggestions(term: String!): [Suggestion]
+}
+
+type Suggestion {
+  id: ID!
+  text: String!
+}
