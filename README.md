@@ -34,9 +34,9 @@ Este projeto é um sistema de autocomplete com back-end em FastAPI + GraphQL e f
 - O sistema já vem com um arquivo de dados para a Trie, carregado automaticamente ao iniciar o back-end.
 - Para parar os containers, use `Ctrl+C` no terminal ou rode `docker-compose down`.
 - Se quiser rodar apenas o back-end ou o front-end, ajuste o `docker-compose.yml` conforme necessário.
+- Sugestões de teste: **processo**, **ação**, **direito**.
 
 ## Possíveis problemas
 - Certifique-se de que as portas 3000 (front) e 8000 (back) estejam livres.
 
 ---
-
