@@ -1,7 +1,4 @@
 fastapi
 ariadne
 uvicorn
-sqlalchemy
-databases
-asyncpg
-psycopg2
+rapidfuzz
